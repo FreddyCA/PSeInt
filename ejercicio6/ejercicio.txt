@@ -1,0 +1,2 @@
+Diseñar  un  algoritmo  para  determinar  si  dos  matrices  contienen  los  mismos  elementos aunque 
+estos no se presenten en el mismo orden.

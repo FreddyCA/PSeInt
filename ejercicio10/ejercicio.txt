@@ -1,0 +1,1 @@
+Diseñar un algoritmo para sumar dos vectores numéricos

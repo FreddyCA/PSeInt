@@ -1,0 +1,1 @@
+Realizar el diagrama de flujo para resolver una ecuación de segundo grado,teniendo en cuenta las solucionescomplejas.

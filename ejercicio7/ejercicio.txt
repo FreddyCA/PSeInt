@@ -1,0 +1,2 @@
+Diseñarunalgoritmoparadeterminarsidosmatricessoniguales;
+esdecir,verificarsipara todosloselementos se cumple queA[i][j]=B[i][j]

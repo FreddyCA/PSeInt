@@ -1,0 +1,1 @@
+Diseñar un algoritmo para calcular el producto de un número por una matriz
