@@ -1,0 +1,1 @@
+Plantear el organigrama de un programa que sea capaz de calcular el impuesto sobre la renta el número de veces que sea necesario y lo escriba por impresora. El impuesto de la renta es el 15% del salario anual de cada persona, al que previamente se debe realizar una deducción en función del número de hijos, que es del 0% si tiene 0, del 5% si tiene 1 o 2y del 15% si tiene más de2.
