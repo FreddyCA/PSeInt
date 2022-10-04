@@ -1,0 +1,7 @@
+Genera una matriz de tamaño NxM con números aleatorios en un rango de 1 al 50,
+ imprime la matriz y obtén la suma de la diagonal principal, 
+si la suma de la diagonal principal es mayor a 50 entonces imprime y suma 
+todos los elementos que se encuentren en una posición en donde la columna sea par, 
+tomen en cuenta el O como par, en caso de que la suma de la diagonal principal sea menor a 50 entonces 
+imprime y sume la diagonal invertida. NOTA tienen que pedir los valores para la fila y para la columna y validar 
+que sean iguales para que sea una matriz cuadrada y pueda existir diagonal principal.
